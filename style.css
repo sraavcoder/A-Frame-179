@@ -5,13 +5,22 @@ body {
 }
 
 #map {
-    height: 75vh;
+    height: 65vh;
     margin-bottom: 0.5em;
 }
 
+#weather-button {
+    border: none;
+    width: 60%;
+    padding: 1em;
+    background-color: #35858B;
+    color: whitesmoke;
+    border-radius: 1em;
+}
+
 .container {
-    margin-top: 0.5em;
-    border: 4px solid rgb(52, 168, 83);
+    margin-top: 0.3em;
+    border: 4px solid #35858B;
 }
 
 .image-marker {
